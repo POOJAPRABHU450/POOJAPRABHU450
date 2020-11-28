@@ -1,7 +1,6 @@
-### Hi there 👋
-### This is POOJA P
 
 <img src='images/headerimage.jpg' width ='90%'>
+
 <!--
 
 ![](images/headerimage.jpg)
