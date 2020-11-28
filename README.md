@@ -1,6 +1,8 @@
 
 <img src='images/headerimage.jpg' width ='90%'>
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 
 ![](images/headerimage.jpg)
