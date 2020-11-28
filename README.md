@@ -1,6 +1,6 @@
 
 <img src='images/headerimage.jpg' width ='90%'>
-[My Latest Blogs:](https://poojaprabhu567.medium.com/)
+# My Latest Blogs
 
 ★[Understanding neurons in Deep Learning](https://medium.com/analytics-vidhya/understanding-neurons-in-deep-learning-8308ce91271f)
 
