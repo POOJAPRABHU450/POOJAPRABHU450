@@ -15,13 +15,9 @@
 
     ★[How to make face mask using Arduino](https://poojaprabhu567.medium.com/how-to-make-face-mask-using-arduino-6b18c67c9baf)
 
- <a href="https://github-readme-stats.vercel.app/api?username=POOJAPRABHU450&count_private=true&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=POOJAPRABHU450&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=POOJAPRABHU450&layout=compact">
-  <img align="https://github-readme-stats.vercel.app/api/top-langs/?username=POOJAPRABHU450&layout=compact" />
-</a>
-
+ <img src ='https://github-readme-stats.vercel.app/api?username=POOJAPRABHU450&count_private=true&show_icons=true&theme=radical'>
+ 
+  <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=POOJAPRABHU450&layout=compact'>
 <!--
 ![](images/headerimage.jpg)
 
