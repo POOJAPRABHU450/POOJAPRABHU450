@@ -7,13 +7,13 @@
  
 -  💬 Ask me about Deep learning , web development and IOT.
 
-## 💻 My Latest Blogs :
+    ## 💻 My Latest Blogs :
 
-★[Understanding neurons in Deep Learning](https://medium.com/analytics-vidhya/understanding-neurons-in-deep-learning-8308ce91271f)
+    ★[Understanding neurons in Deep Learning](https://medium.com/analytics-vidhya/understanding-neurons-in-deep-learning-8308ce91271f)
 
-★[How to get started with open source contributions?](https://poojaprabhu567.medium.com/how-to-get-started-with-open-source-contribution-b9cda738b274)
+    ★[How to get started with open source contributions?](https://poojaprabhu567.medium.com/how-to-get-started-with-open-source-contribution-b9cda738b274)
 
-★[How to make face mask using Arduino](https://poojaprabhu567.medium.com/how-to-make-face-mask-using-arduino-6b18c67c9baf)
+    ★[How to make face mask using Arduino](https://poojaprabhu567.medium.com/how-to-make-face-mask-using-arduino-6b18c67c9baf)
 
   
 
