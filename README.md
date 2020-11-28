@@ -1,7 +1,7 @@
 
 <img src='images/headerimage.jpg' width ='90%'>
 
-- 🔭 I’m currently working on Deep Learning Research Paper , Dynamic Reactjs website , Designing circuit for our model to partcipate in SAE Aerodesign Competition and working         with Azure is cool!
+- 🔭 I’m currently working on Deep Learning Research Paper , Dynamic Reactjs website , Designing circuit for our model to participate in SAE Aerodesign Competition and working         with Azure is cool!
 
 - 🌱 I’m currently learning Deep Reinforcement Learning and understanding maths behind back propagation algorithm,Trying my hands on tensorflowlite to run Tiny ML model. 
  
