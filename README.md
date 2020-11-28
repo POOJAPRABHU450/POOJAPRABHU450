@@ -1,7 +1,7 @@
 
 <img src='images/headerimage.jpg' width ='90%'>
 
-# 💻 My Latest Blogs :
+## 💻 My Latest Blogs :
 
 ★[Understanding neurons in Deep Learning](https://medium.com/analytics-vidhya/understanding-neurons-in-deep-learning-8308ce91271f)
 
