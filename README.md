@@ -1,10 +1,10 @@
 
 <img src='images/headerimage.jpg' width ='90%'>
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[My Latest Blogs:](https://poojaprabhu567.medium.com/)
+★[Understanding neurons in Deep Learning](https://medium.com/analytics-vidhya/understanding-neurons-in-deep-learning-8308ce91271f)
+★[How to get started with open source contributions?](https://poojaprabhu567.medium.com/how-to-get-started-with-open-source-contribution-b9cda738b274)
+★[How to make face mask using Arduino](https://poojaprabhu567.medium.com/how-to-make-face-mask-using-arduino-6b18c67c9baf)
 <!--
-
 ![](images/headerimage.jpg)
 
 Here are some ideas to get you started:
