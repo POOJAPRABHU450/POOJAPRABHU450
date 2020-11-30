@@ -1,7 +1,7 @@
 
 <img src='images/headerimage.jpg' width ='90%'>
 
-### I am second year student at National Institute Of Engineering , Mysore.
+### I am a second year student at National Institute Of Engineering , Mysore.
 #### Technology is a passion of mine and I enjoy learning new technologies and using it to solve real world problems. I love seeing the big picture mapped out for technology needs.
 
 - 🔭 I’m currently working on Deep Learning Research Paper , Dynamic Reactjs website , Designing circuit for our model to participate in SAE Aerodesign Competition and working         with Azure is cool!
