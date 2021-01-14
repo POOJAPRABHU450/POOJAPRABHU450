@@ -1,4 +1,4 @@
-
+<!---
 <img src='images/headerimage.jpg' width ='90%'>
 
 ### I am a second year student at National Institute Of Engineering , Mysore.
@@ -21,6 +21,7 @@
  <img src ='https://github-readme-stats.vercel.app/api?username=POOJAPRABHU450&count_private=true&show_icons=true&theme=radical'>
  
  <img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=POOJAPRABHU450&layout=compact'>
+  --->
 <!--
 ![](images/headerimage.jpg)
 
